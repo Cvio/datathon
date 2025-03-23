@@ -1,0 +1,10 @@
+pandas 
+matplotlib
+google-cloud-storage
+gcsfs
+bytesbufio
+openai 
+python-dotenv
+pillow
+faiss-cpu
+numpy
